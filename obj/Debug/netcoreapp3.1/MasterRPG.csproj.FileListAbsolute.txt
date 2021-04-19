@@ -1,0 +1,15 @@
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\MasterRPG.exe
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\MasterRPG.deps.json
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\MasterRPG.runtimeconfig.json
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\MasterRPG.runtimeconfig.dev.json
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\MasterRPG.dll
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\MasterRPG.pdb
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.csprojAssemblyReference.cache
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.AssemblyInfoInputs.cache
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.AssemblyInfo.cs
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.dll
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.pdb
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.genruntimeconfig.cache
+D:\Projects\ConsoleGames\MasterRPG\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.csproj.CoreCompileInputs.cache
+D:\Projects\ConsoleGames\MasterRPG\obj\Debug\netcoreapp3.1\MasterRPG.csproj.CopyComplete

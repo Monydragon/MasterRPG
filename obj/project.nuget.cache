@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "BdafcKRQ313Mg54+vAbDOdhBBMOBAJySCqW5Z4QNN+vZeRfbvs8ko/fu4VNai+ystpRm6DPBKzofQMwpfa6lMA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\ConsoleGames\\MasterRPG\\MasterRPG.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
